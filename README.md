@@ -2,7 +2,6 @@
 
 CS193P Stanfords 2021 Spring
 
-
 Played with 
 property wrappers
 ScrollView
