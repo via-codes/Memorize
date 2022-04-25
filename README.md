@@ -1,5 +1,7 @@
 # Memorize
 
+SwiftUI
+
 CS193P Stanfords 2021 Spring
 
 Played with 
@@ -8,4 +10,4 @@ ScrollView
 LazyVGrid
 MVVM
 Emojis
-Flipping the cards "up" and "down"
+Flipping the cards "up" and "down" animations
